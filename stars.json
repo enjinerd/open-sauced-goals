@@ -1,27 +1,27 @@
 [
   {
     "full_name": "probot/probot",
-    "stargazers_count": 7146,
-    "open_issues_count": 27,
+    "stargazers_count": 7156,
+    "open_issues_count": 26,
     "forks_count": 848
   },
   {
     "full_name": "papers-we-love/papers-we-love",
-    "stargazers_count": 49196,
-    "open_issues_count": 13,
+    "stargazers_count": 49287,
+    "open_issues_count": 14,
     "forks_count": 4216
   },
   {
     "full_name": "akiraux/Akira",
-    "stargazers_count": 4456,
+    "stargazers_count": 4463,
     "open_issues_count": 37,
-    "forks_count": 189
+    "forks_count": 191
   },
   {
     "full_name": "Alikhll/golang-developer-roadmap",
-    "stargazers_count": 12195,
-    "open_issues_count": 8,
-    "forks_count": 1493
+    "stargazers_count": 12262,
+    "open_issues_count": 9,
+    "forks_count": 1502
   },
   {
     "full_name": "ivanlanin/kateglo",
@@ -31,56 +31,56 @@
   },
   {
     "full_name": "shikijs/shiki",
-    "stargazers_count": 2479,
-    "open_issues_count": 24,
+    "stargazers_count": 2531,
+    "open_issues_count": 27,
     "forks_count": 87
   },
   {
     "full_name": "dicebear/dicebear",
-    "stargazers_count": 2702,
+    "stargazers_count": 2777,
     "open_issues_count": 3,
-    "forks_count": 77
+    "forks_count": 79
   },
   {
     "full_name": "laymonage/giscus",
-    "stargazers_count": 434,
+    "stargazers_count": 442,
     "open_issues_count": 19,
     "forks_count": 17
   },
   {
     "full_name": "trailofbits/algo",
-    "stargazers_count": 21403,
-    "open_issues_count": 100,
+    "stargazers_count": 21427,
+    "open_issues_count": 101,
     "forks_count": 1862
   },
   {
     "full_name": "juanfont/headscale",
-    "stargazers_count": 840,
-    "open_issues_count": 9,
+    "stargazers_count": 855,
+    "open_issues_count": 10,
     "forks_count": 53
   },
   {
     "full_name": "ml-tooling/opyrator",
-    "stargazers_count": 2387,
-    "open_issues_count": 11,
+    "stargazers_count": 2389,
+    "open_issues_count": 12,
     "forks_count": 104
   },
   {
     "full_name": "jlongster/absurd-sql",
-    "stargazers_count": 2427,
+    "stargazers_count": 2446,
     "open_issues_count": 16,
     "forks_count": 26
   },
   {
     "full_name": "gocolly/colly",
-    "stargazers_count": 14750,
+    "stargazers_count": 14781,
     "open_issues_count": 126,
-    "forks_count": 1262
+    "forks_count": 1263
   },
   {
     "full_name": "equalsraf/neovim-qt",
-    "stargazers_count": 1196,
-    "open_issues_count": 103,
+    "stargazers_count": 1199,
+    "open_issues_count": 105,
     "forks_count": 144
   },
   {
@@ -109,15 +109,15 @@
   },
   {
     "full_name": "antoniolofiego/Batteries-Included-Next.js",
-    "stargazers_count": 15,
+    "stargazers_count": 16,
     "open_issues_count": 0,
-    "forks_count": 3
+    "forks_count": 4
   },
   {
     "full_name": "quii/learn-go-with-tests",
-    "stargazers_count": 15289,
+    "stargazers_count": 15305,
     "open_issues_count": 30,
-    "forks_count": 1949
+    "forks_count": 1948
   },
   {
     "full_name": "mrekucci/epi",
@@ -133,14 +133,14 @@
   },
   {
     "full_name": "ahrm/sioyek",
-    "stargazers_count": 810,
-    "open_issues_count": 10,
+    "stargazers_count": 822,
+    "open_issues_count": 8,
     "forks_count": 24
   },
   {
     "full_name": "srevinsaju/guiscrcpy",
-    "stargazers_count": 1202,
-    "open_issues_count": 11,
+    "stargazers_count": 1207,
+    "open_issues_count": 12,
     "forks_count": 112
   },
   {
@@ -157,19 +157,19 @@
   },
   {
     "full_name": "swaggo/swag",
-    "stargazers_count": 4707,
-    "open_issues_count": 122,
+    "stargazers_count": 4723,
+    "open_issues_count": 124,
     "forks_count": 656
   },
   {
     "full_name": "hashicorp/next-mdx-remote",
-    "stargazers_count": 908,
-    "open_issues_count": 12,
-    "forks_count": 66
+    "stargazers_count": 915,
+    "open_issues_count": 13,
+    "forks_count": 67
   },
   {
     "full_name": "bakkeby/patches",
-    "stargazers_count": 101,
+    "stargazers_count": 105,
     "open_issues_count": 3,
     "forks_count": 15
   },
