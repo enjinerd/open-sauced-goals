@@ -1,27 +1,27 @@
 [
   {
     "full_name": "probot/probot",
-    "stargazers_count": 7510,
+    "stargazers_count": 7515,
     "open_issues_count": 37,
-    "forks_count": 912
+    "forks_count": 911
   },
   {
     "full_name": "papers-we-love/papers-we-love",
-    "stargazers_count": 53243,
+    "stargazers_count": 53267,
     "open_issues_count": 26,
     "forks_count": 4439
   },
   {
     "full_name": "akiraux/Akira",
-    "stargazers_count": 4674,
+    "stargazers_count": 4677,
     "open_issues_count": 39,
     "forks_count": 195
   },
   {
     "full_name": "Alikhll/golang-developer-roadmap",
-    "stargazers_count": 13698,
+    "stargazers_count": 13719,
     "open_issues_count": 17,
-    "forks_count": 1726
+    "forks_count": 1732
   },
   {
     "full_name": "ivanlanin/kateglo",
@@ -31,33 +31,33 @@
   },
   {
     "full_name": "shikijs/shiki",
-    "stargazers_count": 3079,
+    "stargazers_count": 3082,
     "open_issues_count": 34,
     "forks_count": 121
   },
   {
     "full_name": "dicebear/dicebear",
-    "stargazers_count": 3757,
+    "stargazers_count": 3769,
     "open_issues_count": 2,
     "forks_count": 124
   },
   {
     "full_name": "laymonage/giscus",
-    "stargazers_count": 1483,
-    "open_issues_count": 33,
+    "stargazers_count": 1502,
+    "open_issues_count": 34,
     "forks_count": 72
   },
   {
     "full_name": "trailofbits/algo",
-    "stargazers_count": 24636,
-    "open_issues_count": 106,
-    "forks_count": 2033
+    "stargazers_count": 24663,
+    "open_issues_count": 107,
+    "forks_count": 2039
   },
   {
     "full_name": "juanfont/headscale",
-    "stargazers_count": 3386,
-    "open_issues_count": 55,
-    "forks_count": 178
+    "stargazers_count": 3425,
+    "open_issues_count": 49,
+    "forks_count": 179
   },
   {
     "full_name": "ml-tooling/opyrator",
@@ -67,25 +67,25 @@
   },
   {
     "full_name": "jlongster/absurd-sql",
-    "stargazers_count": 3159,
+    "stargazers_count": 3160,
     "open_issues_count": 25,
     "forks_count": 52
   },
   {
     "full_name": "gocolly/colly",
-    "stargazers_count": 15984,
-    "open_issues_count": 142,
-    "forks_count": 1364
+    "stargazers_count": 16007,
+    "open_issues_count": 143,
+    "forks_count": 1366
   },
   {
     "full_name": "equalsraf/neovim-qt",
-    "stargazers_count": 1312,
-    "open_issues_count": 103,
-    "forks_count": 151
+    "stargazers_count": 1315,
+    "open_issues_count": 104,
+    "forks_count": 150
   },
   {
     "full_name": "huibizhang/vitawind",
-    "stargazers_count": 47,
+    "stargazers_count": 48,
     "open_issues_count": 1,
     "forks_count": 7
   },
@@ -97,9 +97,9 @@
   },
   {
     "full_name": "theodorusclarence/ts-nextjs-tailwind-starter",
-    "stargazers_count": 512,
+    "stargazers_count": 521,
     "open_issues_count": 1,
-    "forks_count": 63
+    "forks_count": 64
   },
   {
     "full_name": "theodorusclarence/vite-react-tailwind-starter",
@@ -115,13 +115,13 @@
   },
   {
     "full_name": "quii/learn-go-with-tests",
-    "stargazers_count": 16667,
+    "stargazers_count": 16688,
     "open_issues_count": 23,
-    "forks_count": 2159
+    "forks_count": 2164
   },
   {
     "full_name": "mrekucci/epi",
-    "stargazers_count": 424,
+    "stargazers_count": 425,
     "open_issues_count": 0,
     "forks_count": 89
   },
@@ -133,13 +133,13 @@
   },
   {
     "full_name": "ahrm/sioyek",
-    "stargazers_count": 1737,
-    "open_issues_count": 29,
+    "stargazers_count": 1774,
+    "open_issues_count": 33,
     "forks_count": 43
   },
   {
     "full_name": "srevinsaju/guiscrcpy",
-    "stargazers_count": 1493,
+    "stargazers_count": 1496,
     "open_issues_count": 16,
     "forks_count": 138
   },
@@ -152,26 +152,26 @@
   {
     "full_name": "wellyshen/react-cool-portal",
     "stargazers_count": 701,
-    "open_issues_count": 15,
+    "open_issues_count": 16,
     "forks_count": 19
   },
   {
     "full_name": "swaggo/swag",
-    "stargazers_count": 5486,
-    "open_issues_count": 99,
-    "forks_count": 742
+    "stargazers_count": 5521,
+    "open_issues_count": 101,
+    "forks_count": 746
   },
   {
     "full_name": "hashicorp/next-mdx-remote",
-    "stargazers_count": 1200,
-    "open_issues_count": 19,
+    "stargazers_count": 1203,
+    "open_issues_count": 18,
     "forks_count": 80
   },
   {
     "full_name": "bakkeby/patches",
-    "stargazers_count": 151,
+    "stargazers_count": 152,
     "open_issues_count": 2,
-    "forks_count": 20
+    "forks_count": 22
   },
   {
     "full_name": "ri7nz/rescript-chakra",
