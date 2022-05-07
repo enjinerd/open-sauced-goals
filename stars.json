@@ -1,27 +1,27 @@
 [
   {
     "full_name": "probot/probot",
-    "stargazers_count": 7636,
+    "stargazers_count": 7643,
     "open_issues_count": 49,
-    "forks_count": 923
+    "forks_count": 925
   },
   {
     "full_name": "papers-we-love/papers-we-love",
-    "stargazers_count": 59545,
+    "stargazers_count": 59984,
     "open_issues_count": 14,
-    "forks_count": 4735
+    "forks_count": 4762
   },
   {
     "full_name": "akiraux/Akira",
-    "stargazers_count": 4728,
-    "open_issues_count": 42,
-    "forks_count": 196
+    "stargazers_count": 4733,
+    "open_issues_count": 43,
+    "forks_count": 197
   },
   {
     "full_name": "Alikhll/golang-developer-roadmap",
-    "stargazers_count": 14271,
+    "stargazers_count": 14304,
     "open_issues_count": 18,
-    "forks_count": 1812
+    "forks_count": 1818
   },
   {
     "full_name": "ivanlanin/kateglo",
@@ -31,61 +31,61 @@
   },
   {
     "full_name": "shikijs/shiki",
-    "stargazers_count": 3291,
-    "open_issues_count": 44,
+    "stargazers_count": 3293,
+    "open_issues_count": 42,
     "forks_count": 137
   },
   {
     "full_name": "dicebear/dicebear",
-    "stargazers_count": 3986,
+    "stargazers_count": 3995,
     "open_issues_count": 3,
     "forks_count": 136
   },
   {
     "full_name": "laymonage/giscus",
-    "stargazers_count": 1955,
+    "stargazers_count": 1971,
     "open_issues_count": 31,
     "forks_count": 93
   },
   {
     "full_name": "trailofbits/algo",
-    "stargazers_count": 25429,
-    "open_issues_count": 121,
-    "forks_count": 2105
+    "stargazers_count": 25445,
+    "open_issues_count": 122,
+    "forks_count": 2106
   },
   {
     "full_name": "juanfont/headscale",
-    "stargazers_count": 4311,
+    "stargazers_count": 4425,
     "open_issues_count": 47,
-    "forks_count": 244
+    "forks_count": 247
   },
   {
     "full_name": "ml-tooling/opyrator",
-    "stargazers_count": 2617,
+    "stargazers_count": 2618,
     "open_issues_count": 5,
     "forks_count": 124
   },
   {
     "full_name": "jlongster/absurd-sql",
-    "stargazers_count": 3265,
+    "stargazers_count": 3269,
     "open_issues_count": 27,
-    "forks_count": 60
+    "forks_count": 62
   },
   {
     "full_name": "gocolly/colly",
-    "stargazers_count": 16497,
+    "stargazers_count": 16520,
     "open_issues_count": 147,
-    "forks_count": 1407
+    "forks_count": 1409
   },
   {
     "full_name": "equalsraf/neovim-qt",
-    "stargazers_count": 1363,
+    "stargazers_count": 1365,
     "open_issues_count": 101,
     "forks_count": 154
   },
   {
     "full_name": "huibizhang/vitawind",
-    "stargazers_count": 62,
+    "stargazers_count": 63,
     "open_issues_count": 1,
     "forks_count": 11
   },
@@ -97,9 +97,9 @@
   },
   {
     "full_name": "theodorusclarence/ts-nextjs-tailwind-starter",
-    "stargazers_count": 748,
+    "stargazers_count": 755,
     "open_issues_count": 1,
-    "forks_count": 103
+    "forks_count": 105
   },
   {
     "full_name": "theodorusclarence/vite-react-tailwind-starter",
@@ -115,9 +115,9 @@
   },
   {
     "full_name": "quii/learn-go-with-tests",
-    "stargazers_count": 17507,
-    "open_issues_count": 25,
-    "forks_count": 2265
+    "stargazers_count": 17539,
+    "open_issues_count": 26,
+    "forks_count": 2269
   },
   {
     "full_name": "mrekucci/epi",
@@ -133,13 +133,13 @@
   },
   {
     "full_name": "ahrm/sioyek",
-    "stargazers_count": 2046,
-    "open_issues_count": 39,
+    "stargazers_count": 2047,
+    "open_issues_count": 40,
     "forks_count": 56
   },
   {
     "full_name": "srevinsaju/guiscrcpy",
-    "stargazers_count": 1602,
+    "stargazers_count": 1608,
     "open_issues_count": 18,
     "forks_count": 146
   },
@@ -157,13 +157,13 @@
   },
   {
     "full_name": "swaggo/swag",
-    "stargazers_count": 5914,
-    "open_issues_count": 124,
-    "forks_count": 797
+    "stargazers_count": 5935,
+    "open_issues_count": 126,
+    "forks_count": 799
   },
   {
     "full_name": "hashicorp/next-mdx-remote",
-    "stargazers_count": 1319,
+    "stargazers_count": 1323,
     "open_issues_count": 17,
     "forks_count": 89
   },
